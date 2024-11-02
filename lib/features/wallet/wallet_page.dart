@@ -32,7 +32,7 @@ class _WalletPageState extends State<WalletPage>
                 width: 10,
               ),
               Image.asset(
-                "assets/images/icons/Arrow - Left 2.png",
+                "assets/images/icons/ArrowLeft.png",
                 scale: 0.8,
               ),
               const Spacer(),

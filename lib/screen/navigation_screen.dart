@@ -38,7 +38,7 @@ class NavigationScreen extends StatelessWidget {
                     colors: Colors.pink,
                     selectedColor: CommonColor().backgorund1,
                     icons: [
-                      "assets/images/icons/House",
+                      "assets/images/icons/House.png",
                       "assets/images/icons/credit card.png",
                       "assets/images/icons/account.png",
                       "assets/images/icons/bar graph.png",
